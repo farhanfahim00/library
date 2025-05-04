@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "year": 1838,
+        "status": "available"
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Roman von Jane",
+        "year": 1838,
+        "status": "deleted"
+    },
+    {
+        "title": "Dracula",
+        "author": "Roman von Bram",
+        "year": 2088,
+        "status": "lent out"
+    },
+    {
+        "title": "Matilda",
+        "author": "Roald Dahl",
+        "year": 1988,
+        "status": "lent out"
+    },
+    {
+        "title": "Ownership",
+        "author": "Sex",
+        "year": 69,
+        "status": "deleted"
+    },
+    {
+        "title": "Code Complete",
+        "author": "Steve McConnell",
+        "year": 1993,
+        "status": "available"
+    },
+    {
+        "title": "Matilda 2",
+        "author": "Roald Dahl",
+        "year": 1999,
+        "status": "deleted"
+    }
+]

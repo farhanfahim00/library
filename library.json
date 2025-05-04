@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Code Complete",
+        "author": "Steve McConnell",
+        "year": 1993,
+        "status": "available"
+    },
+    {
+        "title": "The Mythical Man-Month",
+        "author": "Fred Brooks",
+        "year": 1975,
+        "status": "available"
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C.Martin",
+        "year": 2007,
+        "status": "available"
+    },
+    {
+        "title": "Clean Refactoring",
+        "author": "Martin Fowler",
+        "year": 1999,
+        "status": "available"
+    },
+    {
+        "title": "The Little Schemer",
+        "author": "Daniel P. Friedman",
+        "year": 1974,
+        "status": "available"
+    }
+]
